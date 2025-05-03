@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="assets/howl_moving_castle.jpg" alt="Howl's Moving Castle" width="80%" />
-</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifoudil&theme=aura) 
 
