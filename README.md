@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![nyan cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifoudil&theme=aura) 
 
 
