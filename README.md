@@ -61,5 +61,20 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Code::Blocks_logo.svg" height="40" alt="Code::Blocks logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="Discord logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Penpot_logo_icon.svg" height="40" alt="Penpot logo" />
 </p>
 
