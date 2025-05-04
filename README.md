@@ -5,7 +5,7 @@
 </p>
 <br />
 
-  ## About Me ⛩️
+## About Me ⛩️
 
 <p align="center">
     Hello, my name is Islem and I am a computer science student at Paris-Saclay University. 
@@ -14,7 +14,11 @@
   <br />
   and improve. I invite you to check out my GitHub repositories to see how I evolve!
 </p>
+
 <br />
+
+## GitHub Stats 📊
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifoudil&theme=aura" />
 </p>
