@@ -6,9 +6,9 @@
 <p align="center">
     Hello, my name is Islem and I am a computer science student at Paris-Saclay University. 
   <br />
-    As you can see, I’m a fan of Studio Ghibli, and I’m also a developer motivated to learn and improve.
+    As you can see, I’m a fan of Studio Ghibli, and I’m also a developer motivated to learn
   <br />
-  I invite you to check out my GitHub repositories to see how I evolve!
+  and improve. I invite you to check out my GitHub repositories to see how I evolve!
 </p>
 <br />
 <p align="center">
