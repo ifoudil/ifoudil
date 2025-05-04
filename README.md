@@ -4,11 +4,11 @@
   <img src="assets/howl_moving_castle.jpg" alt="Howl's Castle" width="80%" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifoudil&theme=aura" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifoudil&theme=aura) 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ifoudil&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ifoudil&theme=aura&utcOffset=8) 
-
-
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ifoudil&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ifoudil&theme=aura&utcOffset=8" />
+</p>
