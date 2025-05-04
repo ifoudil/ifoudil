@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p align="center"><em>Welcome to my GitHub!</em></p>
 <p align="center">
   <img src="assets/howl_moving_castle.jpg" alt="Howl's Castle" width="65%" />
 </p>
