@@ -3,9 +3,7 @@
 <p align="center">
   <img src="assets/howl_moving_castle.jpg" alt="Howl's Castle" width="65%" />
 </p>
-<p>Hello my name is Islem and I am a computer science student at the Paris Saclay University. </p>
-<p>As you can see, I’m a fan of the ghibli studio and I’m also a developer who’s motivated to learn and improve.</p> 
-<p>I invite you to consult my git repository to see my evolution!</p>
+<p  align="center">Hello my name is Islem and I am a computer science student at the Paris Saclay University. As you can see, I’m a fan of the ghibli studio and I’m also a developer who’s motivated to learn and improve. I invite you to consult my git repository to see my evolution!</p>
 
 <br />
 <p align="center">
