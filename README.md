@@ -75,6 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
   <img width="12" />
 
-  <img src="https://static-00.iconduck.com/assets.00/penpot-icon-408x512-dwt4p7sy.png" height="40" alt="Penpot logo" />
+  <img src="https://logowik.com/content/uploads/images/penpot-design-tool-icon1721166206.logowik.com.webp" height="40" alt="Penpot logo" />
 </p>
 
