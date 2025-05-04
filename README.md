@@ -4,7 +4,9 @@
   <img src="assets/howl_moving_castle.jpg" alt="Howl's Castle" width="65%" />
 </p>
 <br />
+
 ## About Me
+
 <p align="center">
     Hello, my name is Islem and I am a computer science student at Paris-Saclay University. 
   <br />
