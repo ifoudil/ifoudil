@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="assets/howl_moving_castle.jpg" alt="Howl's Castle" width="80%" />
-  Coucou tout le monde
 </p>
 
 
