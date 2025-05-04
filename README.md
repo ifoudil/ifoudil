@@ -18,6 +18,5 @@
 <br />
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ifoudil&theme=aura" />
-  <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ifoudil&theme=aura&utcOffset=8" />
 </p>
