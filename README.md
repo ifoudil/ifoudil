@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="assets/howl_moving_castle.jpg" alt="Howl's Castle" width="50%" />
+  <img src="assets/howl_moving_castle.jpg" alt="Howl's Castle" width="60%" />
 </p>
 
 <p align="center">
