@@ -10,7 +10,7 @@
 ## About Me ⛩️
 
 <p align="center">
-    Hello, my name is Islem and I am a computer science student at Paris-Saclay University. 
+    Hello, my name is Islem and I am an engineering networks and telecommunications student at IMT Atlantique (Institut Mines-Telecom) graduate engineering school
   <br />
     As you can see, I’m a fan of Studio Ghibli, and I’m also a developer motivated to learn
   <br />
