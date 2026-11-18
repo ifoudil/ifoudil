@@ -16,7 +16,7 @@
   <br />
   and improve. I invite you to check out my GitHub repositories to see how I evolve!
 </p>
-
+Here you can find my portfolio : https://app.notion.com/p/Portfolio-Islem-4d08c343820283a59271814ffa8baee3
 <br />
 
 ## GitHub Stats 📊
